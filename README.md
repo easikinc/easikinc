@@ -43,10 +43,10 @@ Easik is a full-service digital agency that delivers top-quality **website and a
 
 ## Contact Easik
 
-- 📧 Email: [contact@easik.com]
-- 🌐 Website: [https://easik.com](https://easik.com)
+- 📧 Email: hello@easik.in
+- 🌐 Website: [https://easik.in](https://easik.in)
 - 💼 LinkedIn: [https://linkedin.com/company/easik](https://linkedin.com/company/easik)
-- 🐦 Twitter: [https://twitter.com/easikdigital](https://twitter.com/easikdigital)
+- 🐦 Twitter: [https://twitter.com/easikdigital](https://x.com/easikinc)
 
 ---
 
