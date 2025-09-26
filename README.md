@@ -87,9 +87,7 @@ Easik is a full-service digital agency that delivers top-quality **website and a
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ----
-## GitHub Stats
-
-![Easik GitHub Stats](https://github-readme-stats.vercel.app/api?username=easikinc&show_icons=true&theme=radical)## 📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=easikinc&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=easikinc&layout=compact&theme=radical" />
