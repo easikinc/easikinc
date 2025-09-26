@@ -91,16 +91,16 @@ Easik is a full-service digital agency that delivers top-quality **website and a
 
 ![Easik GitHub Stats](https://github-readme-stats.vercel.app/api?username=easikinc&show_icons=true&theme=radical)## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alokknight&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokknight&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=easikinc&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=easikinc&layout=compact&theme=radical" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alokknight&theme=radical&hide_border=true" alt="alokknight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=easikinc&theme=radical&hide_border=true" alt="easikinc" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alokknight&theme=radical&row=1&column=7" alt="alokknight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=easikinc&theme=radical&row=1&column=7" alt="easikinc" />
 </div>
 
 
