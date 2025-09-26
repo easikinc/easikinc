@@ -61,7 +61,7 @@ Easik is a full-service digital agency that delivers top-quality **website and a
 
 <br>
 <details open>
-<img height="180em" align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokknight&layout=compact">
+<img height="180em" align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=easikinc&layout=compact">
 </details>
 <br><br><br><br><br><br><br><br>
 
