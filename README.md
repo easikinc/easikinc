@@ -41,6 +41,7 @@ Easik is a full-service digital agency that delivers top-quality **website and a
 
 ---
 
+
 ## Contact Easik
 
 - 📧 Email: hello@easik.in
@@ -50,6 +51,42 @@ Easik is a full-service digital agency that delivers top-quality **website and a
 
 ---
 
+## My Tech Stack
+**Programming Languages**
+
+
+<img src="https://img.shields.io/badge/Java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E"/>|<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>|<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>|
+|--|--|--|
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>|<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>|<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>|
+
+<br>
+<details open>
+<img height="180em" align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokknight&layout=compact">
+</details>
+<br><br><br><br><br><br><br><br>
+
+**Libraries and Frameworks**
+
+|<img src="https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=spring&logoColor=61DAFB"/>|<img src="https://img.shields.io/badge/Springboot-20232A?style=for-the-badge&logo=springboot&logoColor=61DAFB"/>|<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>|<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>|<img src="https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>|<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>|
+|--|--|--|--|--|--|
+
+
+**Databases**
+
+|<img src="https://img.shields.io/badge/OracleDB-0B96B2?style=for-the-badge&logo=oracledb&logoColor=white"/>|<img src="https://img.shields.io/badge/MySql-%23DD0031.svg?style=for-the-badge&logo=mysql&logoColor=white"/>|<img src="https://img.shields.io/badge/MongoDB-0B96B2?style=for-the-badge&logo=mongodb&logoColor=white"/>|<img src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>|<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|
+|--|--|--|--|--|
+
+**Hosting** 
+
+|<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>|<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>|<img src="https://img.shields.io/badge/netlify%20-%23000000.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>|<img src="https://img.shields.io/badge/railway-%230075A7.svg?&style=for-the-badge&logo=railway&logoColor=white"/>|
+|--|--|--|--|
+### DevOps & Tools
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+----
 ## GitHub Stats
 
 ![Easik GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
