@@ -1,6 +1,6 @@
 <p align="center">
 
-# Welcome to Easik <span><img src="https://www.easik.in/images/404.png" width="30%" ><span>
+# Welcome to Easik <span><img src="https://www.easik.in/images/404.png" ><span>
 </p>
 
 ### Digital Agency | Web & App Development | SEO & Social Media | Meta Ads & Lead Generation
