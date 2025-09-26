@@ -44,16 +44,6 @@ Easik is a full-service digital agency that delivers top-quality **website and a
 
 ---
 
-
-## Contact Easik
-
-- 📧 Email: hello@easik.in
-- 🌐 Website: [https://easik.in](https://easik.in)
-- 💼 LinkedIn: [https://linkedin.com/company/easik](https://linkedin.com/company/easik)
-- 🐦 Twitter: [https://x.com/easikinc](https://x.com/easikinc)
-
----
-
 ## My Tech Stack
 **Programming Languages**
 
@@ -104,6 +94,15 @@ Easik is a full-service digital agency that delivers top-quality **website and a
   <img src="https://github-profile-trophy.vercel.app/?username=easikinc&theme=radical&row=1&column=7" alt="easikinc" />
 </div>
 
+
+---
+
+## Contact Easik
+
+- 📧 Email: hello@easik.in
+- 🌐 Website: [https://easik.in](https://easik.in)
+- 💼 LinkedIn: [https://linkedin.com/company/easik](https://linkedin.com/company/easik)
+- 🐦 Twitter: [https://x.com/easikinc](https://x.com/easikinc)
 
 ---
 
