@@ -1,6 +1,6 @@
 <p align="center">
 
-# Welcome to Easik <span><img src="https://www.easik.in/images/404.png" width='45px' height='45px'><span>
+# Welcome to Easik 
 </p>
 
 ### Digital Agency | Web & App Development | SEO & Social Media | Meta Ads & Lead Generation
@@ -25,6 +25,7 @@ Easik is a full-service digital agency that delivers top-quality **website and a
 | Website & Webapp Development| SEO & Content Marketing    | Meta Ads (Facebook/Instagram) | Lead Generation & Outreach    |
 | Mobile App Packaging        | Social Media Management    | Campaign Analytics            | Custom Landing Pages          |
 | CRM & ERP Solutions         | Local Business Consulting  | Retargeting Campaigns         | Post-launch Support           |
+| Upcoming service: Cloud Infrastructures and astro repositories                                                           |
 
 ---
 
