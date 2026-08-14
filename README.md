@@ -3,7 +3,7 @@
 # Welcome to Easik 
 </p>
 
-### Digital Agency | Web & App Development | SEO & Social Media | Meta Ads & Lead Generation
+### Digital Agency | Web & App Development | SEO & Social Media | Meta Ads & Lead Generation | SaaS based Apps
 
 ---
 
